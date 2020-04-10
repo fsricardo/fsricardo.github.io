@@ -26,7 +26,7 @@ tags:
 [https://pan.baidu.com/s/1S-ZOQTxgprVUidgbeLMvPg](https://pan.baidu.com/s/1S-ZOQTxgprVUidgbeLMvPg)
 
 提取码 abcd
-解压密码 0daydown
+解压密码 0daydownafeng
 
 ## ANSYS Electronics 2019 R3安装破解教程
 具体步骤有点不一样，参考就行了，好像是下面这个许可证文件吧藏的比较深，那个注册文件也在这里
