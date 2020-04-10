@@ -36,5 +36,5 @@ tags:
 
 ## 拉取我的博客模板
 
-![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408090421566.png)
+![aa](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408090421566.png)
 
