@@ -60,3 +60,19 @@ B站很好很强大
 前提时做好仿真了，然后打开Calculator
 ![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408085110342.png?raw=true)
 
+![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408092218263.png?raw=true)
+
+![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408092247460.png?raw=true)
+
+![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408092337844.png?raw=true)
+
+![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408092355198.png?raw=true)
+
+Done,推出，然后画你的观测线，不会画观测线的画可以看上面那个讲话比较差的B站教程的一个实例，就是下面这个
+![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408092651290.png?raw=true)
+
+照着操作就行了，最后选项就会出现刚刚添加的两个分量，确定，成功输出。
+
+![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/2020040809283496.png?raw=true)
+
+![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408092906561.png?raw=true)
