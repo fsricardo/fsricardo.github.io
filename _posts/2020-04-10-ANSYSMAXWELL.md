@@ -36,8 +36,5 @@ tags:
 
 ## 拉取我的博客模板
 
-注册完成后搜索 `qiubaiying.github.io` 进入[我的仓库](https://github.com/qiubaiying/qiubaiying.github.io)
-
-
-![](http://upload-images.jianshu.io/upload_images/2178672-1b234fb8549e58aa.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/fsricardo/fsricardo.github.io/blob/master/img/20200408090421566.png)
 
